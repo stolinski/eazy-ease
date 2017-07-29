@@ -1,0 +1,24 @@
+{
+  "name": "eazy-ease",
+  "version": "1.0.0",
+  "description": "A lib of JS bezier easings. Can be used anywhere as a string, primarily made for styled-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stolinski/eazy-ease.git"
+  },
+  "keywords": [
+    "ease",
+    "easing",
+    "styled-components"
+  ],
+  "author": "Scott Tolinski - Level Up Tutorials @leveluptuts @stolinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stolinski/eazy-ease/issues"
+  },
+  "homepage": "https://github.com/stolinski/eazy-ease#readme"
+}
