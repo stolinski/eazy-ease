@@ -77,3 +77,10 @@ easeInBack = cubic-bezier(0.6, -0.28, 0.735, 0.045)
 easeOutBack = cubic-bezier(0.175, 0.885, 0.32, 1.275)
 
 easeInOutBack = cubic-bezier(0.68, -0.55, 0.265, 1.55)
+
+
+### Sponsored By
+
+[Level Up Tutorials](http://leveluptutorials.com/) 
+
+[Youtube Channel](https://www.youtube.com/user/LevelUpTuts/)
